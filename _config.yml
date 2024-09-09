@@ -1,10 +1,10 @@
 # Site settings
-title: Living Art
+title: Will Bligh
 email: 278f8113e29510f4237d584e461ae999 #w.bligh@gmail.com
-url: https://willbligh.github.com/livingart
+url: https://willbligh.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "Bligh, Film"
-skills: "Innovative Theatre and Film Projects"
+skills: "Curriculum Vitae"
 meta_author: Bligh Will
 
 # Google webmaster tools
@@ -25,10 +25,10 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 80B3FF #18bc9c #80B3FF
+  primary-rgb: "128,179,255" #"24,288,156" #"128,179,255"
+  secondary: FD6E8A #2c3e50 #FD6E8A
+  secondary-dark: A2122F #233140 #A2122F
 
 # Footer settings
 footer:
