@@ -82,6 +82,7 @@ hr.star-primary:after {
 
 ul {
   list-style: none;
+  font-size: 20px;
 }
 
 li {
