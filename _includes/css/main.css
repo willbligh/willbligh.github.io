@@ -80,8 +80,11 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
-ul li {
-    list-style-type:none;
+ul {
+  list-style: none;
+}
+
+li {
     margin-top: 10px;
 }
 
