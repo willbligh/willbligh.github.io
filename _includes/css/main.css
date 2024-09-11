@@ -80,6 +80,14 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.no-bullets, .no-bullets li {
+    list-style-type:none;
+}
+
+li {
+  margin-top: 10px;
+}
+
 header {
     text-align: center;
     color: #fff;
