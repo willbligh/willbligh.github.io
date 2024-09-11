@@ -19,6 +19,7 @@
 **1992**&emsp;_Bachelor of Applied Science - Computing_
 - &emsp;Queensland University of Technology.
 <br>
+<br>
 
 ### Conference Papers
 <br>
@@ -34,14 +35,12 @@ W. Bligh (2014) *Writing Emotion: Understanding the Narrative Techniques of Alfr
 
 W. Bligh (2008) *Don’t tell me, show me*, World Dance Alliance Global Summit, Brisbane.
 <br>
+<br>
 
 ### Articles
 <br>
-
 W. Bligh (2015) *Narrative and Cinema Identification*, The London Film and Media Reader 3, Proceedings of FILM AND MEDIA 2013: The Third Annual London Film and Media Conference.
-<br>
 
 W.Bligh (2009). *Alternative Film Production*, ejournalist (a refereed media journal) Volume 9, Number 1.
-<br>
 
 H. A. Abbass, W. Bligh, M. Towsey, G. Finn (1999). *Knowledge discovery in a Dairy Cattle Database (Automated knowledge acquisition)*, Proceedings of ISDSS’99.
