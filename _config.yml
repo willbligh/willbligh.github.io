@@ -4,7 +4,7 @@ email: 278f8113e29510f4237d584e461ae999 #w.bligh@gmail.com
 url: https://willbligh.github.io
 description: "Welcome to my website. Please find information about projects I have done."
 keywords: "Bligh, Film"
-skills: "&quot;The universe is made of stories, not atoms.&quot; &mdash; Muriel Rukeyzer"
+skills: "&quot;The universe is made of stories, not atoms.&quot; <small>&mdash; Muriel Rukeyzer</small>"
 meta_author: Bligh Will
 
 # Google webmaster tools
