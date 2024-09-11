@@ -1,23 +1,20 @@
 
 ### Academic Qualifications
 
-<p style="margin-left: 25px;">2018&emsp;Doctor of Philosophy</p>
-<p style="margin-left: 25px;">University of Technology, Sydney.</p>
-<p style="margin-left: 25px;">TOPIC: screenwriting</p>
-<p style="margin-left: 25px;">THESIS TITLE: *Remaking The 39 Steps: Hitchcock’s Screenwriting and Identification*</p>
+<p style="margin-left: 25px;">2018&emsp;**Doctor of Philosophy**, University of Technology, Sydney.</p>
+<p style="margin-left: 25px; margin-top: 0px;">TOPIC: screenwriting</p>
+<p style="margin-left: 25px; margin-top: 0px;">THESIS TITLE: *Remaking The 39 Steps: Hitchcock’s Screenwriting and Identification*</p>
 
-<p style="margin-left: 25px;">2012&emsp;Masters of Arts (Research)</p>
-<p style="margin-left: 25px;">La Trobe University.</p>
-<p style="margin-left: 25px;">TOPIC: film adaptation</p>
-<p style="margin-left: 25px;">THESIS TITLE: *Transforming Media: Exploring the Practice of Stage to Screen Adaptation*</p>
+<p style="margin-left: 25px;">2012&emsp;**Masters of Arts (Research)**, La Trobe University.</p>
+<p style="margin-left: 25px; margin-top: 0px;">TOPIC: film adaptation</p>
+<p style="margin-left: 25px; margin-top: 0px;">THESIS TITLE: *Transforming Media: Exploring the Practice of Stage to Screen Adaptation*</p>
 
-<p style="margin-left: 25px;">2000&emsp;Masters of Information Technology (Research)</p>
-<p style="margin-left: 25px;">Queensland University of Technology.</p>
-<p style="margin-left: 25px;">TOPIC: machine learning</p>
-<p style="margin-left: 25px;">THESIS TITLE: *Applications of Machine Learning and Connectionist Modelling to an Australian Dairy Database*</p>
+<p style="margin-left: 25px;">2000&emsp;**Masters of Information Technology (Research)**, Queensland University of Technology.</p>
+<p style="margin-left: 25px; margin-top: 0px;">TOPIC: machine learning</p>
+<p style="margin-left: 25px; margin-top: 0px;">THESIS TITLE: *Applications of Machine Learning and Connectionist Modelling to an Australian Dairy Database*</p>
 
 <p style="margin-left: 25px;">1992&emsp;Bachelor of Applied Science - Computing</p>
-<p style="margin-left: 25px;">Queensland University of Technology.</p>
+<p style="margin-left: 25px; margin-top: 0px;">Queensland University of Technology.</p>
 
 ### Conference Papers
 
