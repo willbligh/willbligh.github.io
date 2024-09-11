@@ -82,11 +82,11 @@ hr.star-primary:after {
 
 .no-bullets, .no-bullets li {
     list-style-type:none;
-    margin-bottom: 100px 0;
+    margin-bottom: 100px;
 }
 
 li {
-  margin-bottom: 100px 0;
+  margin-bottom: 100px;
 }
 
 header {
