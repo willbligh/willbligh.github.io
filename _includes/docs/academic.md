@@ -1,11 +1,10 @@
 
 ### Academic Qualifications
-- 
-
+<br>
+<br>
 2018 **Doctor of Philosophy**, University of Technology, Sydney.
 - TOPIC: screenwriting
 - THESIS TITLE: *Remaking The 39 Steps: Hitchcock’s Screenwriting and Identification*
-- 
 
 2012 **Masters of Arts (Research)**, La Trobe University.
 - TOPIC: film adaptation
