@@ -1,9 +1,9 @@
 
 ### Academic Qualifications
 
-<p style="margin-left: 25px;">2018&emsp;**Doctor of Philosophy**, University of Technology, Sydney.</p>
-<p style="margin-left: 25px; margin-top: 0px;">TOPIC: screenwriting</p>
-<p style="margin-left: 25px; margin-top: 0px;">THESIS TITLE: *Remaking The 39 Steps: Hitchcock’s Screenwriting and Identification*</p>
+<p style="margin-left: 25px; margin: 0px; padding: 0px;">2018&emsp;**Doctor of Philosophy**, University of Technology, Sydney.</p>
+<p style="margin-left: 25px; margin: 0px; padding: 0px;">TOPIC: screenwriting</p>
+<p style="margin-left: 25px; margin: 0px; padding: 0px;">THESIS TITLE: *Remaking The 39 Steps: Hitchcock’s Screenwriting and Identification*</p>
 
 <p style="margin-left: 25px;">2012&emsp;**Masters of Arts (Research)**, La Trobe University.</p>
 <p style="margin-left: 25px; margin-top: 0px;">TOPIC: film adaptation</p>
