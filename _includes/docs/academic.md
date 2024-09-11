@@ -1,19 +1,22 @@
 
 ### Academic Qualifications
 <br>
-**2018** Doctor of Philosophy, University of Technology, Sydney.
+**2018**&emsp;_Doctor of Philosophy_
+- University of Technology, Sydney.
 - TOPIC: screenwriting
 - THESIS TITLE: *Remaking The 39 Steps: Hitchcock’s Screenwriting and Identification*
 
-**2012** Masters of Arts (Research), La Trobe University.
+**2012**&emsp;_Masters of Arts (Research)_
+- La Trobe University.
 - TOPIC: film adaptation
 - THESIS TITLE: *Transforming Media: Exploring the Practice of Stage to Screen Adaptation*
 
-**2000** Masters of Information Technology (Research), Queensland University of Technology.
+**2000**&emsp;_Masters of Information Technology (Research)_
+- Queensland University of Technology.
 - TOPIC: machine learning
 - THESIS TITLE: *Applications of Machine Learning and Connectionist Modelling to an Australian Dairy Database*
 
-**1992**&emsp;Bachelor of Applied Science - Computing
+**1992**&emsp;_Bachelor of Applied Science - Computing_
 - Queensland University of Technology.
 
 ### Conference Papers
