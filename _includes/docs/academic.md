@@ -1,4 +1,5 @@
-## ACADEMIC QUALIFICATIONS
+
+### Academic Qualifications
 
 2018				Doctor of Philosophy
  				University of Technology, Sydney.
@@ -19,14 +20,14 @@
  				Queensland University of Technology.
 
 
-
-## CONFERENCE PAPERS
+### Conference Papers
 
 W. Bligh (2024) *Mind the Gap: How Hitchcock constructs Prospective Suspense within Film Scenes*, RevCon Academic Conference, Perth, Australia.
 
 W. Bligh (2016) *Scripting the Hitchcock Film*, The Society for Cinema and Media Studies 2016 Conference, Atlanta, USA.
 
 W. Bligh (2015) *Hitchcock: Writing with Images*, Sixth International Conference of the Image, Berkeley, California, USA.
+
 W. Bligh (2015) *Deconstructing Suspense in The 39 Steps (1935)*, 8th Screenwriters Research Network International Conference, London.
 
 W. Bligh (2014) *Writing Emotion: Understanding the Narrative Techniques of Alfred Hitchcock*, 2014 Faculty of Arts and Social Sciences Higher Degree Research Students Conference, University of Technology Sydney.
@@ -34,7 +35,8 @@ W. Bligh (2014) *Writing Emotion: Understanding the Narrative Techniques of Alfr
 W. Bligh (2008) *Don’t tell me, show me*, World Dance Alliance Global Summit, Brisbane.
 
 
-## ARTICLES
+### Articles
+
 W. Bligh (2015) *Narrative and Cinema Identification*, The London Film and Media Reader 3, Proceedings of FILM AND MEDIA 2013: The Third Annual London Film and Media Conference.
 
 W.Bligh (2009). *Alternative Film Production*, ejournalist (a refereed media journal) Volume 9, Number 1.
