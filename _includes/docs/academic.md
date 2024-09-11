@@ -1,25 +1,23 @@
 
 ### Academic Qualifications
 
-<ul class="no-bullets"><li>2018&emsp;Doctor of Philosophy
- 				University of Technology, Sydney.
-				TOPIC: screenwriting
-				THESIS TITLE: *Remaking The 39 Steps: Hitchcock’s Screenwriting and Identification*
+<p style="margin-left: 25px;">2018&emsp;Doctor of Philosophy</p>
+<p style="margin-left: 25px;">University of Technology, Sydney.</p>
+<p style="margin-left: 25px;">TOPIC: screenwriting</p>
+<p style="margin-left: 25px;">THESIS TITLE: *Remaking The 39 Steps: Hitchcock’s Screenwriting and Identification*</p>
 
-</li><li>2012&emsp;Masters of Arts (Research)
- 				La Trobe University.
-				TOPIC: film adaptation
-				THESIS TITLE: *Transforming Media: Exploring the Practice of Stage to Screen Adaptation*
+<p style="margin-left: 25px;">2012&emsp;Masters of Arts (Research)</p>
+<p style="margin-left: 25px;">La Trobe University.</p>
+<p style="margin-left: 25px;">TOPIC: film adaptation</p>
+<p style="margin-left: 25px;">THESIS TITLE: *Transforming Media: Exploring the Practice of Stage to Screen Adaptation*</p>
 
-</li><li>2000&emsp;Masters of Information Technology (Research)
- 				Queensland University of Technology.
-				TOPIC: machine learning
-				THESIS TITLE: *Applications of Machine Learning and Connectionist Modelling to an Australian Dairy Database*
+<p style="margin-left: 25px;">2000&emsp;Masters of Information Technology (Research)</p>
+<p style="margin-left: 25px;">Queensland University of Technology.</p>
+<p style="margin-left: 25px;">TOPIC: machine learning</p>
+<p style="margin-left: 25px;">THESIS TITLE: *Applications of Machine Learning and Connectionist Modelling to an Australian Dairy Database*</p>
 
-</li><li>1992&emsp;Bachelor of Applied Science - Computing
- 				Queensland University of Technology.
-</li></ul>
-
+<p style="margin-left: 25px;">1992&emsp;Bachelor of Applied Science - Computing</p>
+<p style="margin-left: 25px;">Queensland University of Technology.</p>
 
 ### Conference Papers
 
