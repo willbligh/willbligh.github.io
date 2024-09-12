@@ -24,10 +24,9 @@
 ### Conference Papers
 <br>
 W. Bligh (2024) *Mind the Gap: How Hitchcock constructs Prospective Suspense within Film Scenes*, RevCon Academic Conference, Perth, Australia.
-<br>
-
+<div style="height:30px;"></div>
 W. Bligh (2016) *Scripting the Hitchcock Film*, The Society for Cinema and Media Studies 2016 Conference, Atlanta, USA.
-<br>
+<div style="height:30px;"></div>
 
 W. Bligh (2015) *Hitchcock: Writing with Images*, Sixth International Conference of the Image, Berkeley, California, USA.
 <br>
