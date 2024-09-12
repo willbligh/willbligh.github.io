@@ -35,7 +35,7 @@ footer:
   copyright: 
   location: Location
   social: Around the Web
-  credits: Productions
+  credits: More Info
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: Australia
 
 # Credits content
-credits: 'For more information on my projects, visit <a href="http://willbligh.github.io/livingart">Living Art</a> Productions.'
+credits: 'For more information on my projects, visit <a href="http://willbligh.github.io/livingart">Living Art Productions</a>.'
 
 # Build settings
 markdown: kramdown
