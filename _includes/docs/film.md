@@ -1,4 +1,5 @@
-## DIRECTING EDUCATION
+
+### DIRECTING EDUCATION
 
 2004	Mike Leigh’s Improvisation Method, by Rob Marchand, Brisbane, Australia, ’04.
 
@@ -7,7 +8,7 @@ Performed using Mike Leigh’s method at “Mike Leigh’s Improvisation Method�
 1998	Director/Actor workshop with Lindy Davies through AFTRS (Financial assistance for this workshop via QPIX scheme).
 
 
-## FILMOGRAPHY
+### FILMOGRAPHY
 
 **“Doreen’s Dead”** (writer/director/producer), Australia, 2022
 Duration: 10 minutes
@@ -51,7 +52,7 @@ Finalist in the Queensland New Filmmakers Awards, ’98.
 Synopsis: Set the night after a party, a bitter clash between Sara and Michael presents two opposing ideologies.
 
 
-## SCREENWRITING
+### SCREENWRITING
 
 2022		**‘Doreen’s Dead’**, a black-comedy feature screenplay. See the short film trailer for an introduction to the story.
 2019		**‘The Southern-Cross Conspiracy’**, a feature comedy screenplay supporting practice-led PhD.
