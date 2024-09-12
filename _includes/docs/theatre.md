@@ -37,9 +37,9 @@
 
 ### PLAYWRITING
 <br>
-**1996**		‘The Sculptor’, Runner-up in Comalco Young Playwright’s Awards, Brisbane.
+**1996**&emsp;‘The Sculptor’, Runner-up in Comalco Young Playwright’s Awards, Brisbane.
 
-**1995** 		‘The Bastard’, Performed in the Squib Festival, Court-house Theatre, Melbourne.
+**1995**&emsp;‘The Bastard’, Performed in the Squib Festival, Court-house Theatre, Melbourne.
 <br>
 <br>
 
@@ -47,8 +47,8 @@
 <div style="height:20px;"></div>
 #### Acting Workshops
 <div style="height:20px;"></div>
-**May 2013 - Dec 2013**		Suzuki Method (once weekly,) at Tatwerk, Berlin, Germany.
+**May 2013 - Dec 2013**&emsp;Suzuki Method (once weekly,) at Tatwerk, Berlin, Germany.
 
-**March 2012 - Aug 2012**	Suzuki Method (once weekly,) at Tatwerk, Berlin, Germany.
+**March 2012 - Aug 2012**&emsp;Suzuki Method (once weekly,) at Tatwerk, Berlin, Germany.
 
-**Jan 2012 - Feb 2012**		Suzuki Method (once weekly,) at K77 Studio, Berlin, Germany.
+**Jan 2012 - Feb 2012**&emsp;Suzuki Method (once weekly,) at K77 Studio, Berlin, Germany.
