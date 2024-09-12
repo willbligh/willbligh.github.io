@@ -25,14 +25,19 @@
 <br>
 W. Bligh (2024) *Mind the Gap: How Hitchcock constructs Prospective Suspense within Film Scenes*, RevCon Academic Conference, Perth, Australia.
 <br>
+
 W. Bligh (2016) *Scripting the Hitchcock Film*, The Society for Cinema and Media Studies 2016 Conference, Atlanta, USA.
 <br>
+
 W. Bligh (2015) *Hitchcock: Writing with Images*, Sixth International Conference of the Image, Berkeley, California, USA.
 <br>
+
 W. Bligh (2015) *Deconstructing Suspense in The 39 Steps (1935)*, 8th Screenwriters Research Network International Conference, London.
 <br>
+
 W. Bligh (2014) *Writing Emotion: Understanding the Narrative Techniques of Alfred Hitchcock*, 2014 Faculty of Arts and Social Sciences Higher Degree Research Students Conference, University of Technology Sydney.
 <br>
+
 W. Bligh (2008) *Don’t tell me, show me*, World Dance Alliance Global Summit, Brisbane.
 <br>
 <br>
@@ -41,6 +46,8 @@ W. Bligh (2008) *Don’t tell me, show me*, World Dance Alliance Global Summit, 
 <br>
 W. Bligh (2015) *Narrative and Cinema Identification*, The London Film and Media Reader 3, Proceedings of FILM AND MEDIA 2013: The Third Annual London Film and Media Conference.
 <br>
+
 W.Bligh (2009). *Alternative Film Production*, ejournalist (a refereed media journal) Volume 9, Number 1.
 <br>
+
 H. A. Abbass, W. Bligh, M. Towsey, G. Finn (1999). *Knowledge discovery in a Dairy Cattle Database (Automated knowledge acquisition)*, Proceedings of ISDSS’99.
