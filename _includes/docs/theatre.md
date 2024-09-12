@@ -1,4 +1,5 @@
-## EDUCATION
+
+### EDUCATION
 
 **Acting Methods:** Chekhov method by Natela Dzuliashvili, Sydney, Australia, ’15; Practical Aesthetics Master Class, by Andrea Moore, Brisbane, Australia, '07; Stanislavski method by Natela Dzuliashvili, Sydney, Australia, 04; Private tuition with Alan Edwards, '96 ; NIDA Open Program specialising in performing Shakespeare, '95.
 
@@ -6,7 +7,7 @@
 
 **Physical Theatre:** Mime and Movement Intensive (Mime Corporel), by Leisa Shelton, Brisbane, Australia, '07; Workshop in Suzuki Method of Acting, conducted by Ellen Lauren at Toga, Japan, ’02; Continual training with Frank Theatre Company (as a company member) in the Suzuki Method of Acting, '96 - '00; Mime and voice at the Oxford Theatre, '95 .
 
-## PERFORMANCE
+### PERFORMANCE
 
 **‘A Christmas Carol’**, solo performance of Charles Dickens’ play: HOTA, Gold Coast, 2020; Sydney Fringe Festival, 2022; Zamia Theatre, Tamborine Mountain, 2022.
 
@@ -30,14 +31,14 @@
 
 **Events:** Actor, Opening Ceremony for the Arts Centre. Ipswich, 1999; Actor, Opening Ceremony for Comalco Co. Gladstone, Queensland, 1997; Actor, play-reading for the ‘The House is Live!’ and Queensland Theatre Company. QPAC, Brisbane, 1996.
 
-## PLAYWRITING
+### PLAYWRITING
 
 1996		‘The Sculptor’, Runner-up in Comalco Young Playwright’s Awards, Brisbane.
 1995 		‘The Bastard’, Performed in the Squib Festival, Court-house Theatre, Melbourne.
 
-## TEACHING EXPERIENCE
+### TEACHING EXPERIENCE
 
-### Acting Workshops
+#### Acting Workshops
 
 May 2013 - Dec 2013		Suzuki Method (once weekly,) at Tatwerk, Berlin, Germany.
 
