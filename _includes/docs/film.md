@@ -33,7 +33,7 @@ Submitted as part of my Master of Arts at La Trobe University. Produced to promo
 
 Synopsis: Shows scene excerpts from the screenplay of “My Life In Art”.
 <div style="height:40px;"></div>
-**”A Day In The Park”** (writer/director/producer/actor), Germany, 2005
+**"A Day In The Park"** (writer/director/producer/actor), Germany, 2005
 
 Duration: 5 minutes
 
