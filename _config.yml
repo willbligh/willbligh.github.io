@@ -1,7 +1,7 @@
 # Site settings
 title: Will Bligh
-email: 278f8113e29510f4237d584e461ae999 #w.bligh@gmail.com
-url: https://willbligh.github.io
+email: w.bligh@gmail.com
+url: https://willbligh.com
 description: "Welcome to my website. Please find information about projects I have done."
 keywords: "Bligh, Film, Screenwriting, Theatre"
 skills: "&quot;The universe is made of stories, not atoms.&quot; <small>&mdash; M. Rukeyzer</small>"
@@ -56,7 +56,7 @@ address:
   - line: Australia
 
 # Credits content
-credits: 'For more information on my projects, visit <a href="http://willbligh.github.io/livingart">Living Art Productions</a>.'
+credits: 'For more information on my projects, visit <a href="https://www.livingart.info">Living Art Productions</a>.'
 
 # Build settings
 markdown: kramdown
